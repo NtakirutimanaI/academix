@@ -1,0 +1,6 @@
+[submodule "academix-backend"]
+    path = academix-backend
+    url = https://github.com/NtakirutimanaI/academix-backend.git
+[submodule "academix-frontend"]
+    path = academix-frontend
+    url = https://github.com/NtakirutimanaI/academix-frontend.git
